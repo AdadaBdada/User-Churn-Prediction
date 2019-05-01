@@ -1,7 +1,7 @@
 # Sparkify User Churn Prediction
 
 ## Overview
-Medium : https://medium.com/@jinshuoada92/sparkify-user-churn-prediction-d4c3166ec675
+[Medium Post](https://medium.com/@jinshuoada92/sparkify-user-churn-prediction-d4c3166ec675)
 
 ## What is churn Prediction?
 Churn prediction is knowing which users are going to stop using your platform in the future. My project is Predicting Sparkify User Churn with Sparkify JSON Log File
